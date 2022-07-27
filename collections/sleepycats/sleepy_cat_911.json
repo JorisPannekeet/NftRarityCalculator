@@ -1,0 +1,129 @@
+{
+    "name": "Sleepy Cat #911",
+    "description": "Sleepy Cats features a wide variety of cute, sleepy kitties that just want to have a cat nap!",
+    "royalty_percentage": 5,
+    "tokenId": 911,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "LightRed"
+        },
+        {
+            "trait_type": "Glow",
+            "value": "Cyan"
+        },
+        {
+            "trait_type": "Tail",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Shirt",
+            "value": "PinkStriped"
+        },
+        {
+            "trait_type": "Base",
+            "value": "Base"
+        },
+        {
+            "trait_type": "FaceShadow",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "LeftSock",
+            "value": "Black"
+        },
+        {
+            "trait_type": "RightSock",
+            "value": "Black"
+        },
+        {
+            "trait_type": "SockStripes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Whiskers",
+            "value": "None"
+        },
+        {
+            "trait_type": "Blush",
+            "value": "None"
+        },
+        {
+            "trait_type": "SockPawPrints",
+            "value": "None"
+        },
+        {
+            "trait_type": "Item",
+            "value": "None"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "MessyCyan"
+        },
+        {
+            "trait_type": "Bell",
+            "value": "None"
+        },
+        {
+            "trait_type": "HeadAccessory",
+            "value": "None"
+        },
+        {
+            "trait_type": "FishPins",
+            "value": "Green"
+        },
+        {
+            "trait_type": "Halos",
+            "value": "None"
+        },
+        {
+            "trait_type": "Flowers",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "MouthC"
+        },
+        {
+            "trait_type": "Decal",
+            "value": "Sakana"
+        },
+        {
+            "trait_type": "Emotion",
+            "value": "None"
+        },
+        {
+            "trait_type": "BackgroundExtra",
+            "value": "PinkStars"
+        }
+    ],
+    "properties": {
+        "Background": "LightRed",
+        "Glow": "Cyan",
+        "Tail": "Black",
+        "Shirt": "PinkStriped",
+        "Base": "Base",
+        "FaceShadow": "Blue",
+        "LeftSock": "Black",
+        "RightSock": "Black",
+        "SockStripes": "None",
+        "Whiskers": "None",
+        "Blush": "None",
+        "SockPawPrints": "None",
+        "Item": "None",
+        "Hair": "MessyCyan",
+        "Bell": "None",
+        "HeadAccessory": "None",
+        "FishPins": "Green",
+        "Halos": "None",
+        "Flowers": "None",
+        "Mouth": "MouthC",
+        "Decal": "Sakana",
+        "Emotion": "None",
+        "BackgroundExtra": "PinkStars"
+    },
+    "royalty_address": "0x3be0f00a93901788dfa186da487d63735419f578",
+    "artist": "Lettuce Cat",
+    "image": "ipfs://QmPMGEx3K6N2tUQJdhuUh6PNLBG9U58af9cYthHtP6wxG4",
+    "animation_url": "ipfs://QmPMGEx3K6N2tUQJdhuUh6PNLBG9U58af9cYthHtP6wxG4"
+}

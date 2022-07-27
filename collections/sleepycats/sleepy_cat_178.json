@@ -1,0 +1,129 @@
+{
+    "name": "Sleepy Cat #178",
+    "description": "Sleepy Cats features a wide variety of cute, sleepy kitties that just want to have a cat nap!",
+    "royalty_percentage": 5,
+    "tokenId": 178,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Sky"
+        },
+        {
+            "trait_type": "Glow",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Tail",
+            "value": "Cyan"
+        },
+        {
+            "trait_type": "Shirt",
+            "value": "OrangeStriped"
+        },
+        {
+            "trait_type": "Base",
+            "value": "Base"
+        },
+        {
+            "trait_type": "FaceShadow",
+            "value": "Red"
+        },
+        {
+            "trait_type": "LeftSock",
+            "value": "Snow"
+        },
+        {
+            "trait_type": "RightSock",
+            "value": "Cyan"
+        },
+        {
+            "trait_type": "SockStripes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Whiskers",
+            "value": "None"
+        },
+        {
+            "trait_type": "Blush",
+            "value": "Blush"
+        },
+        {
+            "trait_type": "SockPawPrints",
+            "value": "SockPawPrints"
+        },
+        {
+            "trait_type": "Item",
+            "value": "InstantNoodles"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Bell",
+            "value": "None"
+        },
+        {
+            "trait_type": "HeadAccessory",
+            "value": "Bow"
+        },
+        {
+            "trait_type": "FishPins",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Halos",
+            "value": "None"
+        },
+        {
+            "trait_type": "Flowers",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Mouth3"
+        },
+        {
+            "trait_type": "Decal",
+            "value": "StarGold"
+        },
+        {
+            "trait_type": "Emotion",
+            "value": "None"
+        },
+        {
+            "trait_type": "BackgroundExtra",
+            "value": "GoldStars"
+        }
+    ],
+    "properties": {
+        "Background": "Sky",
+        "Glow": "Gold",
+        "Tail": "Cyan",
+        "Shirt": "OrangeStriped",
+        "Base": "Base",
+        "FaceShadow": "Red",
+        "LeftSock": "Snow",
+        "RightSock": "Cyan",
+        "SockStripes": "None",
+        "Whiskers": "None",
+        "Blush": "Blush",
+        "SockPawPrints": "SockPawPrints",
+        "Item": "InstantNoodles",
+        "Hair": "Black",
+        "Bell": "None",
+        "HeadAccessory": "Bow",
+        "FishPins": "Blue",
+        "Halos": "None",
+        "Flowers": "Pink",
+        "Mouth": "Mouth3",
+        "Decal": "StarGold",
+        "Emotion": "None",
+        "BackgroundExtra": "GoldStars"
+    },
+    "royalty_address": "0x3be0f00a93901788dfa186da487d63735419f578",
+    "artist": "Lettuce Cat",
+    "image": "ipfs://Qmcmos59CXHvwJ3YawQwUnCcDCT1wjzpDH71Eq5zefc13v",
+    "animation_url": "ipfs://Qmcmos59CXHvwJ3YawQwUnCcDCT1wjzpDH71Eq5zefc13v"
+}

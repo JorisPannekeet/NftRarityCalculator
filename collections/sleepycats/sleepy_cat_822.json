@@ -1,0 +1,129 @@
+{
+    "name": "Sleepy Cat #822",
+    "description": "Sleepy Cats features a wide variety of cute, sleepy kitties that just want to have a cat nap!",
+    "royalty_percentage": 5,
+    "tokenId": 822,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "CherryBlossom"
+        },
+        {
+            "trait_type": "Glow",
+            "value": "None"
+        },
+        {
+            "trait_type": "Tail",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Shirt",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Base",
+            "value": "Base"
+        },
+        {
+            "trait_type": "FaceShadow",
+            "value": "None"
+        },
+        {
+            "trait_type": "LeftSock",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "RightSock",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "SockStripes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Whiskers",
+            "value": "None"
+        },
+        {
+            "trait_type": "Blush",
+            "value": "Blush"
+        },
+        {
+            "trait_type": "SockPawPrints",
+            "value": "None"
+        },
+        {
+            "trait_type": "Item",
+            "value": "None"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "MessyBlossom"
+        },
+        {
+            "trait_type": "Bell",
+            "value": "None"
+        },
+        {
+            "trait_type": "HeadAccessory",
+            "value": "None"
+        },
+        {
+            "trait_type": "FishPins",
+            "value": "None"
+        },
+        {
+            "trait_type": "Halos",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Flowers",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Mouth3"
+        },
+        {
+            "trait_type": "Decal",
+            "value": "None"
+        },
+        {
+            "trait_type": "Emotion",
+            "value": "Angry"
+        },
+        {
+            "trait_type": "BackgroundExtra",
+            "value": "WhiteStars"
+        }
+    ],
+    "properties": {
+        "Background": "CherryBlossom",
+        "Glow": "None",
+        "Tail": "Black",
+        "Shirt": "Black",
+        "Base": "Base",
+        "FaceShadow": "None",
+        "LeftSock": "Pink",
+        "RightSock": "Purple",
+        "SockStripes": "None",
+        "Whiskers": "None",
+        "Blush": "Blush",
+        "SockPawPrints": "None",
+        "Item": "None",
+        "Hair": "MessyBlossom",
+        "Bell": "None",
+        "HeadAccessory": "None",
+        "FishPins": "None",
+        "Halos": "Gold",
+        "Flowers": "None",
+        "Mouth": "Mouth3",
+        "Decal": "None",
+        "Emotion": "Angry",
+        "BackgroundExtra": "WhiteStars"
+    },
+    "royalty_address": "0x3be0f00a93901788dfa186da487d63735419f578",
+    "artist": "Lettuce Cat",
+    "image": "ipfs://QmTBXwV6i2D2K2Rj3nsi7h6NxVpt8osAkYYadZ7X2wCSt2",
+    "animation_url": "ipfs://QmTBXwV6i2D2K2Rj3nsi7h6NxVpt8osAkYYadZ7X2wCSt2"
+}

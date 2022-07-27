@@ -1,0 +1,129 @@
+{
+    "name": "Sleepy Cat #506",
+    "description": "Sleepy Cats features a wide variety of cute, sleepy kitties that just want to have a cat nap!",
+    "royalty_percentage": 5,
+    "tokenId": 506,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Midnight"
+        },
+        {
+            "trait_type": "Glow",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Tail",
+            "value": "Blossom"
+        },
+        {
+            "trait_type": "Shirt",
+            "value": "PurpleStriped"
+        },
+        {
+            "trait_type": "Base",
+            "value": "Base"
+        },
+        {
+            "trait_type": "FaceShadow",
+            "value": "None"
+        },
+        {
+            "trait_type": "LeftSock",
+            "value": "Black"
+        },
+        {
+            "trait_type": "RightSock",
+            "value": "Amethyst"
+        },
+        {
+            "trait_type": "SockStripes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Whiskers",
+            "value": "None"
+        },
+        {
+            "trait_type": "Blush",
+            "value": "None"
+        },
+        {
+            "trait_type": "SockPawPrints",
+            "value": "None"
+        },
+        {
+            "trait_type": "Item",
+            "value": "None"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Blonde"
+        },
+        {
+            "trait_type": "Bell",
+            "value": "None"
+        },
+        {
+            "trait_type": "HeadAccessory",
+            "value": "None"
+        },
+        {
+            "trait_type": "FishPins",
+            "value": "None"
+        },
+        {
+            "trait_type": "Halos",
+            "value": "None"
+        },
+        {
+            "trait_type": "Flowers",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "MouthSad"
+        },
+        {
+            "trait_type": "Decal",
+            "value": "None"
+        },
+        {
+            "trait_type": "Emotion",
+            "value": "Nya"
+        },
+        {
+            "trait_type": "BackgroundExtra",
+            "value": "None"
+        }
+    ],
+    "properties": {
+        "Background": "Midnight",
+        "Glow": "Purple",
+        "Tail": "Blossom",
+        "Shirt": "PurpleStriped",
+        "Base": "Base",
+        "FaceShadow": "None",
+        "LeftSock": "Black",
+        "RightSock": "Amethyst",
+        "SockStripes": "None",
+        "Whiskers": "None",
+        "Blush": "None",
+        "SockPawPrints": "None",
+        "Item": "None",
+        "Hair": "Blonde",
+        "Bell": "None",
+        "HeadAccessory": "None",
+        "FishPins": "None",
+        "Halos": "None",
+        "Flowers": "None",
+        "Mouth": "MouthSad",
+        "Decal": "None",
+        "Emotion": "Nya",
+        "BackgroundExtra": "None"
+    },
+    "royalty_address": "0x3be0f00a93901788dfa186da487d63735419f578",
+    "artist": "Lettuce Cat",
+    "image": "ipfs://QmbQvaLJk29Aai2yhpH11kr9FKRQNZfxBCLJf2wQUHDvZA",
+    "animation_url": "ipfs://QmbQvaLJk29Aai2yhpH11kr9FKRQNZfxBCLJf2wQUHDvZA"
+}
